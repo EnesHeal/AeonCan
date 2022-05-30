@@ -6,7 +6,7 @@
 👨‍💻 Portfolio: https://bothane.xyz <br/>
 📫 How to reach me: hello@roxza.me <br/>
 🧬 Npm Account: https://npmjs.com/~roxza  <br/>
- Discord Account: ! Aeon#4410 <br/>
+🚀 Discord Account: ! Aeon#4410 <br/>
 </h3>
 <br/>
 <img src="https://skillicons.dev/icons?i=,pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
