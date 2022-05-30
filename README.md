@@ -5,7 +5,7 @@
 <div align="center">
     <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
 </div>
-  <summary style="font-weight: bold; font-size: 18px">Istatistic for My GitHub</summary>
+  I USE
 <br/>
 <img src="https://skillicons.dev/icons?i=pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
 <br/>
