@@ -2,12 +2,9 @@
   <h1>🚀 Enes Can </h1>
 
 <h4>I am a front-end developer and a editor</b></h4>
-<h3>
-👨‍💻 Portfolio: https://bothane.xyz <br/>
-📫 How to reach me: hello@roxza.me <br/>
-🧬 Npm Account: https://npmjs.com/~roxza  <br/>
-🚀 Discord Account: ! Aeon#4410 <br/>
-</h3>
+<div align="center">
+    <a href="https://discord.com/users/402047297963294730" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/402047297963294730"></a>
+</div>
 <br/>
 <img src="https://skillicons.dev/icons?i=,pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
 <br/>
