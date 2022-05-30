@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🚀 Enes Can </h1>
+  <h1>👨‍✈️ Enes Can </h1>
 
-<h4>👨‍✈️ I am a front-end developer and a editor</b></h4>
+<h4>🚀 I am a front-end developer and a editor</b></h4>
 <div align="center">
     <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
 </div>
