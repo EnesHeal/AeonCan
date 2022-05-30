@@ -9,7 +9,7 @@
  Discord Account: ! Aeon#4410 <br/>
 </h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=,pr,ps,javascript,typescript,html,css,nodejs,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=,pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
 <br/>
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=AeonCan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
