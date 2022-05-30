@@ -6,7 +6,7 @@
     <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
 </div>
 <br/>
-<img src="https://skillicons.dev/icons?i=,pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
 <br/>
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=AeonCan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
