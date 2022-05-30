@@ -5,7 +5,7 @@
 <div align="center">
     <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
 </div>
-<h3>My Accounds:</h3>
+<h3>Programs and Languages I Use</h3>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=pr,ps,javascript,typescript,html,css,nodejs,vscode,github,discord&theme=dark" />
